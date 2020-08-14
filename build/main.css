@@ -17,6 +17,20 @@ body {
   float: right;
 }
 
+.feedback {
+  color: blue;
+  position: absolute;
+  padding: 20px;
+  right: 0;
+  bottom: 0;
+  font-size: 50%;
+  opacity: 0.3; 
+}
+
+.feedback:hover {
+  opacity: 0.8; 
+}
+
 small {
   color: #b3b3b3;
 }
