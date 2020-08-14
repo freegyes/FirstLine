@@ -20,10 +20,10 @@ body {
 .feedback {
   color: blue;
   position: absolute;
-  padding: 20px;
+  padding: 240px 20px 20px 240px;
   right: 0;
   bottom: 0;
-  font-size: 50%;
+  font-size: 40%;
   opacity: 0.3; 
 }
 
