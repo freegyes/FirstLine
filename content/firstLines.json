@@ -9,7 +9,7 @@
     "author": "Jane Austen",
     "book": "Pride and Prejudice",
     "year": 1813,
-    "firstline": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. "
+    "firstline": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
   },
   {
     "author": "Thomas Pynchon",
@@ -93,7 +93,7 @@
     "author": "Miguel de Cervantes",
     "book": "Don Quixote",
     "year": 1605,
-    "firstline": "Somewhere in la Mancha, in a place whose name I do not care to remember, a gentleman lived not long ago, one of those who has a lance and ancient shield on a shelf and keeps a skinny nag and a greyhound for racing. "
+    "firstline": "Somewhere in la Mancha, in a place whose name I do not care to remember, a gentleman lived not long ago, one of those who has a lance and ancient shield on a shelf and keeps a skinny nag and a greyhound for racing."
   },
   {
     "author": "Albert Camus",
@@ -340,6 +340,12 @@
     "book": "The Kite Runner",
     "year": null,
     "firstline": "I became what I am today at the age of twelve, on a frigid overcast day in the winter of 1975."
+  },
+  {
+    "author": "Roald Dahl",
+    "book": "The BFG",
+    "year": null,
+    "firstline": "Sophie couldn't sleep."
   },
   {
     "author": "H. G. Wells",
