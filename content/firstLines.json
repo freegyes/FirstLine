@@ -714,9 +714,39 @@
     "firstline": "He began his new life standing up, surrounded by cold darkness and stale, dusty air."
   },
   {
+    "author": "Oscar Wilde",
+    "book": "The Picture of Dorian Gray",
+    "year": 1890,
+    "firstline": "The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn."
+  },
+  {
+    "author": "Raymond Carver",
+    "book": "What We Talk About When We Talk About Love",
+    "year": 1981,
+    "firstline": "A man without hands came to the door to sell me a photograph of my house."
+  },
+  {
+    "author": "Erich Maria Remarque",
+    "book": "All Quiet on the Western Front",
+    "year": 1929,
+    "firstline": "This book is to be neither an accusation nor a confession, and least of all an adventure, for death is not an adventure to those who stand face to face with it."
+  },
+  {
+    "author": "Louis Sachar",
+    "book": "Holes",
+    "year": 1998,
+    "firstline": "There is no lake at Camp Green Lake."
+  },
+  {
+    "author": "Virginia Woolf",
+    "book": "The Waves",
+    "year": 1931,
+    "firstline": "The sun had not yet risen."
+  },
+  {
     "author": "H. G. Wells",
     "book": "The War of the Worlds",
-    "year": null,
+    "year": 1897,
     "firstline": "No one would have believed, in the last years of the nineteenth century, that this world was being watched keenly and closely by intelligences greater than man's and yet as mortal as his own; that as men busied themselves about their various concerns they were being scrutinized and studied, perhaps almost as narrowly as a man with a microscope might scrutinize the transient creatures that swarm and multiply in a drop of water."
   }
 ]
