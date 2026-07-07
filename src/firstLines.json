@@ -826,5 +826,149 @@
     "book": "The War of the Worlds",
     "year": 1897,
     "firstline": "No one would have believed, in the last years of the nineteenth century, that this world was being watched keenly and closely by intelligences greater than man's and yet as mortal as his own; that as men busied themselves about their various concerns they were being scrutinized and studied, perhaps almost as narrowly as a man with a microscope might scrutinize the transient creatures that swarm and multiply in a drop of water."
+  },
+  {
+    "author": "Anthony Doerr",
+    "book": "All the Light We Cannot See",
+    "year": 2014,
+    "firstline": "At dusk they pour from the sky."
+  },
+  {
+    "author": "Madeline Miller",
+    "book": "Circe",
+    "year": 2018,
+    "firstline": "When I was born, the name for what I was did not exist."
+  },
+  {
+    "author": "Frank Herbert",
+    "book": "Dune",
+    "year": 1965,
+    "firstline": "In the week before their departure to Arrakis, when all the final scurrying about had reached a nearly unbearable frenzy, an old crone came to visit the mother of the boy, Paul."
+  },
+  {
+    "author": "Jonathan Safran Foer",
+    "book": "Extremely Loud & Incredibly Close",
+    "year": 2005,
+    "firstline": "What about a teakettle?"
+  },
+  {
+    "author": "Joseph Conrad",
+    "book": "Heart of Darkness",
+    "year": 1899,
+    "firstline": "The Nellie, a cruising yawl, swung to her anchor without a flutter of the sails, and was at rest."
+  },
+  {
+    "author": "Italo Calvino",
+    "book": "If on a Winter's Night a Traveler",
+    "year": 1979,
+    "firstline": "You are about to begin reading Italo Calvino's new novel, If on a winter's night a traveler. Relax. Concentrate. Dispel every other thought. Let the world around you fade."
+  },
+  {
+    "author": "Truman Capote",
+    "book": "In Cold Blood",
+    "year": 1966,
+    "firstline": "The village of Holcomb stands on the high wheat plains of western Kansas, a lonesome area that other Kansans call 'out there.'"
+  },
+  {
+    "author": "John Steinbeck",
+    "book": "Of Mice and Men",
+    "year": 1937,
+    "firstline": "A few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green."
+  },
+  {
+    "author": "Derek Walcott",
+    "book": "Omeros",
+    "year": 1990,
+    "firstline": "This is how, one sunrise, we cut down them canoes."
+  },
+  {
+    "author": "Juan Rulfo",
+    "book": "Pedro Páramo",
+    "year": 1955,
+    "firstline": "I came to Comala because I had been told that my father, a man named Pedro Páramo, lived there."
+  },
+  {
+    "author": "William Shakespeare",
+    "book": "Romeo and Juliet",
+    "year": 1597,
+    "firstline": "Two households, both alike in dignity,<br />In fair Verona, where we lay our scene,<br />From ancient grudge break to new mutiny,<br />Where civil blood makes civil hands unclean."
+  },
+  {
+    "author": "Yuri Herrera",
+    "book": "Signs Preceding the End of the World",
+    "year": 2009,
+    "firstline": "I'm dead, Makina said to herself when everything lurched: a man with a cane was crossing the street, a dull groan suddenly surged through the asphalt, the man stood still as if waiting for someone to repeat the question and then the earth opened up beneath his feet: it swallowed the man, and with him a car and a dog, all the oxygen around and even the screams of passers-by."
+  },
+  {
+    "author": "Toni Morrison",
+    "book": "The Bluest Eye",
+    "year": 1970,
+    "firstline": "Quiet as it's kept, there were no marigolds in the fall of 1941."
+  },
+  {
+    "author": "Markus Zusak",
+    "book": "The Book Thief",
+    "year": 2005,
+    "firstline": "Here is a small fact: You are going to die."
+  },
+  {
+    "author": "David Foster Wallace",
+    "book": "The Broom of the System",
+    "year": 1987,
+    "firstline": "Most really pretty girls have pretty ugly feet, and so does Mindy Metalman, Lenore notices, all of a sudden."
+  },
+  {
+    "author": "Alexandre Dumas",
+    "book": "The Count of Monte Cristo",
+    "year": 1844,
+    "firstline": "On the 24th of February, 1815, the look-out at Notre-Dame de la Garde signalled the three-master, the Pharaon from Smyrna, Trieste, and Naples."
+  },
+  {
+    "author": "Helen DeWitt",
+    "book": "The English Understand Wool",
+    "year": 2022,
+    "firstline": "—The English understand wool."
+  },
+  {
+    "author": "Shirley Jackson",
+    "book": "The Lottery",
+    "year": 1948,
+    "firstline": "The morning of June 27th was clear and sunny, with the fresh warmth of a full-summer day; the flowers were blossoming profusely and the grass was richly green."
+  },
+  {
+    "author": "Thomas Mann",
+    "book": "The Magic Mountain",
+    "year": 1924,
+    "firstline": "An unassuming young man was travelling, in midsummer, from his native city of Hamburg to Davos-Platz in the Canton of the Grisons, on a three weeks' visit."
+  },
+  {
+    "author": "Sei Shōnagon",
+    "book": "The Pillow Book",
+    "year": 1002,
+    "firstline": "In spring, the dawn — when the slowly paling mountain rim is tinged with red, and wisps of faintly crimson-purple cloud float in the sky."
+  },
+  {
+    "author": "Douglas Adams",
+    "book": "The Restaurant at the End of the Universe",
+    "year": 1980,
+    "firstline": "The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move."
+  },
+  {
+    "author": "Donna Tartt",
+    "book": "The Secret History",
+    "year": 1992,
+    "firstline": "The snow in the mountains was melting and Bunny had been dead for several weeks before we came to understand the gravity of our situation."
+  },
+  {
+    "author": "Don DeLillo",
+    "book": "White Noise",
+    "year": 1985,
+    "firstline": "The station wagons arrived at noon, a long shining line that coursed through the west campus. In single file they eased around the orange I-beam sculpture and moved toward the dormitories."
+  },
+  {
+    "author": "Emily Brontë",
+    "book": "Wuthering Heights",
+    "year": 1847,
+    "firstline": "1801—I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with."
   }
 ]
