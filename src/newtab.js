@@ -52,10 +52,21 @@ function pickIndex(count) {
   return i;
 }
 
+// Render text that may contain <br /> line breaks (e.g. Madeline) without
+// treating the source as HTML: split on the tag, insert text nodes and real
+// <br> elements. Nothing from the data is ever parsed as markup.
+function setLine(el, text) {
+  el.replaceChildren();
+  String(text)
+    .split(/<br\s*\/?>/i)
+    .forEach((part, i) => {
+      if (i > 0) el.appendChild(document.createElement("br"));
+      el.appendChild(document.createTextNode(part));
+    });
+}
+
 function render(entry) {
-  // firstline uses innerHTML because a few entries carry <br /> line breaks
-  // (e.g. Madeline). The data is our own; no user input reaches this.
-  document.getElementById("firstLine").innerHTML = entry.firstline;
+  setLine(document.getElementById("firstLine"), entry.firstline);
 
   document.getElementById("book").textContent = entry.book;
   document.getElementById("author").textContent = "— " + entry.author;
